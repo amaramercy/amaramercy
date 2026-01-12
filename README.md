@@ -28,38 +28,32 @@ I am passionate about continuous learning, infrastructure as code, and building 
 
 ## 🛠 Skills
 
-**Cloud Platforms**
-AWS, Azure
+**Cloud Platforms:** AWS, Azure
 
-**DevOps & Infrastructure**
-Linux, Docker, Kubernetes, Terraform, CI/CD, Ansible, Azure DevOps
+**DevOps & Infrastructure:** Linux, Docker, Kubernetes, Terraform, CI/CD, Ansible, Azure DevOps
 
-**Infrastructure as Code (IaC)**
-Terraform, Ansible
+**Infrastructure as Code (IaC):** Terraform, Ansible
 
-**CI/CD Tools**
-GitHub Actions, GitLab CI/CD, Azure DevOps
+**CI/CD Tools:** GitHub Actions, GitLab CI/CD, Azure DevOps
 
-**Programming & Scripting**
-Bash
+**Programming & Scripting:** Bash
 
-**Version Control**
-Git, GitHub
+**Version Control:** Git, GitHub
 
-**Web Basics**
-HTML, CSS
+**Web Basics:** HTML, CSS
 
 ---
 
-## 📦 Projects & Repositories
+## 📦 Top Projects
 
-* **login-signup-form** – Responsive login & sign-up page with modern UI design using HTML & CSS
-* **kube-matrix-2** – Forked Kubernetes practice project
-* **aws-three-tier-bankapp-infra** – Infrastructure setup for three-tier banking application on AWS
-* **theepicbook-capstone** – Production-ready Docker Compose deployment of The EpicBook app
-* **Epicbook-app-dev** – Ansible playbooks and roles for EpicBook deployment
-* **AZURE-INFRA-VM** – Terraform configuration to deploy multiple Linux VMs in Azure
-* **Mini-fianance-deploy** – Deploying a static website using Ansible
+* **login-signup-form** – <b>HTML & CSS</b>: Responsive login & sign-up page with modern UI design
+* **theepicbook-capstone** – <b>Docker, Node.js, MySQL</b>: Production-ready Docker Compose deployment of The EpicBook app
+* **Epicbook-app-dev** – <b>Ansible</b>: Playbooks and roles automating EpicBook deployment
+* **aws-three-tier-bankapp-infra** – <b>AWS, Terraform</b>: Infrastructure setup for three-tier banking application
+* **AZURE-INFRA-VM** – <b>Azure, Terraform</b>: Terraform configuration to deploy multiple Linux VMs in Azure
+* **Mini-fianance-deploy** – <b>Ansible, HTML</b>: Deploying a static website using Ansible
+* **aks-terraform-project** – <b>Azure, Terraform, Kubernetes</b>: Deployment of Azure Kubernetes Service
+* **kube-matrix-2** – <b>Kubernetes</b>: Forked Kubernetes practice project
 
 ---
 
